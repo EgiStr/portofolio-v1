@@ -55,7 +55,7 @@ const Intro = () => {
               >
                 👋
               </SmotionSpan>{" "}
-              it's Eggi Satria <span className="hidden xxsm:inline">;)</span>
+              it&apos;s Eggi Satria <span className="hidden xxsm:inline">;)</span>
             </SmotionHeader>
             <SmotionHeader
               elementType="h2"
